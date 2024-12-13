@@ -116,3 +116,6 @@
   "homepage": "https://github.com/AceDataCloud/Nexior#readme",
   "license": "MIT"
 }
+"engines": {
+  "node": "18.x"
+}
